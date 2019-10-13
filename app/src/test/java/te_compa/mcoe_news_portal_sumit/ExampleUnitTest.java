@@ -1,4 +1,4 @@
-package te_compa.mcoe_news_portal;
+package te_compa.mcoe_news_portal_sumit;
 
 import org.junit.Test;
 
